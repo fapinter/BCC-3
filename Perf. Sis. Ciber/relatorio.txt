@@ -1,0 +1,203 @@
+﻿RELATORIO DO MODO SIMULACAO
+"
+            Algoritmo FIFO:
+
+                Tempo Medio: 26.094270891613434
+                Cache Hits: 366
+                Cache Miss: 1434
+                    
+                    Usuario 1:
+                            
+                        Tempo Medio do usuário: 12.810891469319662
+                        Cache Hits do usuário: 134
+                        Cache Miss do usuário: 466
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 11.833854913711548
+                                Cache Hits sorteio: 17
+                                Cache Miss sorteio: 183
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.299005031585693
+                                Cache Hits sorteio: 80
+                                Cache Miss sorteio: 120
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.299814462661743
+                                Cache Hits sorteio: 37
+                                Cache Miss sorteio: 163
+                    Usuario 2:
+                            
+                        Tempo Medio do usuário: 26.094270706176758
+                         Cache Hits do usuário: 115
+                        Cache Miss do usuário: 485
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.250348567962646
+                                Cache Hits sorteio: 15
+                                Cache Miss sorteio: 185
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.400136232376099
+                                Cache Hits sorteio: 65
+                                Cache Miss sorteio: 135
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.199652910232544
+                                Cache Hits sorteio: 35
+                                Cache Miss sorteio: 165
+
+                    Usuario 3:
+                            
+                        Tempo Medio do usuário: 39.37765049934387
+                        Cache Hits do usuário: 117
+                        Cache Miss do usuário: 483
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.300217390060425
+                                Cache Hits sorteio: 20
+                                Cache Miss sorteio: 180
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.299331426620483
+                                Cache Hits sorteio: 69
+                                Cache Miss sorteio: 131
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.250590562820435
+                                Cache Hits sorteio: 28
+                                Cache Miss sorteio: 172"
+            Algoritmo LFU:
+
+                Tempo Medio: 27.189215554131398
+                Cache Hits: 215
+                Cache Miss: 1585
+                    
+                    Usuario 1:
+                            
+                        Tempo Medio do usuário: 13.60073192914327
+                        Cache Hits do usuário: 69
+                        Cache Miss do usuário: 531
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.650126695632935
+                                Cache Hits sorteio: 24
+                                Cache Miss sorteio: 176
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.549118995666504
+                                Cache Hits sorteio: 28
+                                Cache Miss sorteio: 172
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.602950096130371
+                                Cache Hits sorteio: 17
+                                Cache Miss sorteio: 183
+                    Usuario 2:
+                            
+                        Tempo Medio do usuário: 27.183051029841106
+                         Cache Hits do usuário: 83
+                        Cache Miss do usuário: 517
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.597929954528809
+                                Cache Hits sorteio: 19
+                                Cache Miss sorteio: 181
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.55088472366333
+                                Cache Hits sorteio: 38
+                                Cache Miss sorteio: 162
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.598142623901367
+                                Cache Hits sorteio: 26
+                                Cache Miss sorteio: 174
+
+                    Usuario 3:
+                            
+                        Tempo Medio do usuário: 40.78386370340983
+                        Cache Hits do usuário: 63
+                        Cache Miss do usuário: 537
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.60012412071228
+                                Cache Hits sorteio: 19
+                                Cache Miss sorteio: 181
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.600767374038696
+                                Cache Hits sorteio: 29
+                                Cache Miss sorteio: 171
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.6015465259552
+                                Cache Hits sorteio: 15
+                                Cache Miss sorteio: 185"
+            Algoritmo LRU:
+
+                Tempo Medio: 26.510548777050445
+                Cache Hits: 386
+                Cache Miss: 1414
+                    
+                    Usuario 1:
+                            
+                        Tempo Medio do usuário: 13.249858379364014
+                        Cache Hits do usuário: 128
+                        Cache Miss do usuário: 472
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.297764539718628
+                                Cache Hits sorteio: 22
+                                Cache Miss sorteio: 178
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.250855684280396
+                                Cache Hits sorteio: 73
+                                Cache Miss sorteio: 127
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.200954914093018
+                                Cache Hits sorteio: 33
+                                Cache Miss sorteio: 167
+                    Usuario 2:
+                            
+                        Tempo Medio do usuário: 26.49918270111084
+                         Cache Hits do usuário: 122
+                        Cache Miss do usuário: 478
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.298158407211304
+                                Cache Hits sorteio: 24
+                                Cache Miss sorteio: 176
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.25048017501831
+                                Cache Hits sorteio: 64
+                                Cache Miss sorteio: 136
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.199334383010864
+                                Cache Hits sorteio: 34
+                                Cache Miss sorteio: 166
+
+                    Usuario 3:
+                            
+                        Tempo Medio do usuário: 39.782605250676475
+                        Cache Hits do usuário: 136
+                        Cache Miss do usuário: 464
+
+                            Modo de Sorteio puro e simples:
+                                Tempo do sorteio: 13.400762557983398
+                                Cache Hits sorteio: 23
+                                Cache Miss sorteio: 177
+                        
+                            Modo de Sorteio poison:
+                                Tempo do sorteio: 13.24968671798706
+                                Cache Hits sorteio: 74
+                                Cache Miss sorteio: 126
+
+                            Modo de Sorteio com probabilidade:
+                                Tempo do sorteio: 13.19981837272644
+                                Cache Hits sorteio: 39
+                                Cache Miss sorteio: 161
